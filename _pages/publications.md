@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-This page only lists recent publications, for the full list, please go to [Google Scholar](https://scholar.google.com/citations?user=O5owaKwAAAAJ&hl=en).
+This page only lists recent publications, for the full list, please go to [Google Scholar](https://scholar.google.com/citations?user=WDbZYj0AAAAJ&hl=en).
 (* indicates corresponding author)
 
 {% if author.googlescholar %}
