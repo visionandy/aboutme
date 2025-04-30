@@ -10,7 +10,7 @@ redirect_from:
 
 # Dr. Xiaolong (Andy) Wang
 
-Dr. Xiaolong (Andy) Wang is an accomplished AI researcher andleader with over 15 years of experience in the field. He currently serves as the Head of Content Understanding Applied Science at Amazon, where he leads cutting-edge research in artificial intelligence and machine learning.
+Dr. Xiaolong (Andy) Wang is an accomplished AI researcher and leader with over 15 years of experience in the field. He currently serves as the Head of Content Understanding Applied Science at Amazon, where he leads cutting-edge research in artificial intelligence and machine learning.
 
 With a proven track record of building and leading high-performing AI teams, Dr. Wang has directed 5+ applied research and engineering teams since 2016. Prior to Amazon, he led the Deep Learning R&D Group in GCDO at [IBM Silicon Valley Lab](https://www.ibm.com/us-en/?ar=1) and served as Research Manager and Senior Staff Research Scientist at the AI R&D center in [Samsung Research America (SRA)](https://www.sra.samsung.com).
 
