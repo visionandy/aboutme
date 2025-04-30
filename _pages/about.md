@@ -22,7 +22,7 @@ His research interests include: Large Language Models (LLM), Multi-modal Learnin
 
 He has published over 40 papers in prestigious conferences and journals. He is the recipient of the Test of Time Award at WACV 2025.
 
-He is a member of IEEE, ACM, and the IEEE Computer Society. He serves as an area chair for conferences including NeurIPS 2025, NeurIPS 2024, MM 2012, MM 2013, and others.
+He is a member of IEEE, ACM, and the IEEE Computer Society. He serves as an area chair for conferences including NeurIPS 2025, NeurIPS 2024, MM 2020, MM 2021, and others.
 
 
 
